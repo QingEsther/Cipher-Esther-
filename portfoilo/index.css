@@ -64,6 +64,7 @@ h2 { font-size: clamp(3rem, 7vw, 7rem); letter-spacing: -.07em; line-height: .9;
 .timeline-item:last-child { border-bottom: 1px solid var(--line); }
 .timeline-item h3 { font-size: 1.5rem; margin: 0 0 10px; }
 .timeline-item p:not(.timeline-year) { color: var(--muted); margin: 0; }
+.education-level { color: var(--ink); font-family: var(--mono); font-weight: 700; text-transform: uppercase; }
 .skills { background: var(--blue); }
 .skills h2 { margin-bottom: 65px; }
 .skill-row { align-items: center; border-top: 1px solid var(--ink); display: grid; gap: 25px; grid-template-columns: 70px 1fr 1fr; padding: 22px 0; }
